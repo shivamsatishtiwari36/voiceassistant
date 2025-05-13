@@ -1,0 +1,94 @@
+{
+    "restaurants_and_cafes": [
+      {
+        "name": "Zaika Restaurant",
+        "type": "Restaurant",
+        "cuisine": ["North Indian", "Chinese"],
+        "budget_category": "Medium",
+        "budget_range_inr": [300, 600],
+        "location": "Nehru Nagar, Bhilai",
+        "rating": 4.2
+      },
+      {
+        "name": "Café Bistro 57",
+        "type": "Cafe",
+        "cuisine": ["Continental", "Italian", "Coffee"],
+        "budget_category": "High",
+        "budget_range_inr": [600, 1200],
+        "location": "Civic Center, Bhilai",
+        "rating": 4.6
+      },
+      {
+        "name": "The Hunger Guy",
+        "type": "Restaurant",
+        "cuisine": ["Fast Food", "Chinese"],
+        "budget_category": "Low",
+        "budget_range_inr": [150, 350],
+        "location": "Power House, Bhilai",
+        "rating": 4.0
+      },
+      {
+        "name": "Tandoori Junction",
+        "type": "Restaurant",
+        "cuisine": ["North Indian", "Mughlai"],
+        "budget_category": "Medium",
+        "budget_range_inr": [400, 700],
+        "location": "Smriti Nagar, Bhilai",
+        "rating": 4.3
+      },
+      {
+        "name": "Green Leaf Cafe",
+        "type": "Cafe",
+        "cuisine": ["Healthy", "Continental", "Juices"],
+        "budget_category": "Medium",
+        "budget_range_inr": [300, 600],
+        "location": "Supela, Bhilai",
+        "rating": 4.1
+      },
+      {
+        "name": "Spicy Treats",
+        "type": "Restaurant",
+        "cuisine": ["South Indian", "Indian"],
+        "budget_category": "Low",
+        "budget_range_inr": [200, 400],
+        "location": "Durg Station Road, Durg",
+        "rating": 4.0
+      },
+      {
+        "name": "Café Brewology",
+        "type": "Cafe",
+        "cuisine": ["Coffee", "Snacks", "Desserts"],
+        "budget_category": "Medium",
+        "budget_range_inr": [250, 500],
+        "location": "Chowk, Bhilai",
+        "rating": 4.4
+      },
+      {
+        "name": "Royal Rasoi",
+        "type": "Restaurant",
+        "cuisine": ["Indian", "Chinese"],
+        "budget_category": "High",
+        "budget_range_inr": [600, 1000],
+        "location": "Pulgaon, Durg",
+        "rating": 4.5
+      },
+      {
+        "name": "Urban Biryani",
+        "type": "Restaurant",
+        "cuisine": ["Biryani", "Mughlai"],
+        "budget_category": "Medium",
+        "budget_range_inr": [350, 650],
+        "location": "Junwani, Bhilai",
+        "rating": 4.2
+      },
+      {
+        "name": "Crave & Sip",
+        "type": "Cafe",
+        "cuisine": ["Beverages", "Pastries", "Italian"],
+        "budget_category": "High",
+        "budget_range_inr": [500, 900],
+        "location": "Risali, Bhilai",
+        "rating": 4.3
+      }
+    ]
+  }
